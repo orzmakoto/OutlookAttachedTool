@@ -1,4 +1,4 @@
-# OutlookAttachedTool
+# Outlook添付ツール
 ![OutlookAttachedTool](https://raw.githubusercontent.com/orzmakoto/OutlookAttachedTool/master/image/topimage.png)
 
 - 自動的に付与されるファイル名の他手入力でも添付ができる
