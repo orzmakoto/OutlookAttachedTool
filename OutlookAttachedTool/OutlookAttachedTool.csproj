@@ -38,7 +38,7 @@
     <VSTO_TrustAssembliesLocation>true</VSTO_TrustAssembliesLocation>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>\\ninoweb\C%24\IISRoot\OutlookAttachedTool\</PublishUrl>
+    <PublishUrl>..\publish\</PublishUrl>
     <InstallUrl />
     <TargetCulture>ja</TargetCulture>
     <ApplicationVersion>1.1.0.0</ApplicationVersion>
@@ -86,8 +86,7 @@
     </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
       <Visible>False</Visible>
-      <ProductName>Windows インストーラー 4.5
-</ProductName>
+      <ProductName>Windows インストーラー 4.5</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
